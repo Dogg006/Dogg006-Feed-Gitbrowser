@@ -180,4 +180,10 @@
       		<description>Fusex Skin for Kodi Leia based on jurialmunkey work</description>
 	</repository>
 	
+	<repository>
+	      	<name>Non Jon</name>
+      		<username>nonJon</username>
+      		<description>Quartz 5 CE skin for KODI 18 (Leia)</description>
+	</repository>
+	
 </repositories>
