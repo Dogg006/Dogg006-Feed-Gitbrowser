@@ -1,21 +1,183 @@
 <repositories>
 
 	<repository>
-      <name>TV ADDONS</name>
-      <username>tvaddonsco</username>
-      <description>EarthCam, USTVnow Plus, Live Tube</description>
+      		<name>TV ADDONS</name>
+      		<username>tvaddonsco</username>
+      		<description>EarthCam, USTVnow Plus, Live Tube</description>
 	</repository>
    
 	<repository>
-      <name>mhancoc7</name>
-      <username>mhancoc7</username>
-      <description>USTVcatchup, Free Live TV, UKTV Play</description>
+      		<name>mhancoc7</name>
+      		<username>mhancoc7</username>
+      		<description>USTVcatchup, Free Live TV, UKTV Play</description>
 	</repository>
 	
 	<repository>
-      <name>blamo</name>
-      <username>MrBlamo</username>
-      <description></description>
+      		<name>Nixgates</name>
+      		<username>nixgates</username>
+      		<description>Incursion, Anime Incursion, WatchNixtoons</description>
+	</repository>
+	
+	<repository>
+      		<name>Gaia</name>
+      		<username>gaiaorigin</username>
+      		<description>Gaia</description>
+	</repository>
+	
+	<repository>
+      		<name>Kodi Bae</name>
+      		<username>kodibae</username>
+      		<description>Exodus, 1Channel, Ultimate IPTV</description>
+	</repository>
+   
+	<repository>
+      		<name>Mr. Blamo</name>
+      		<username>MrBlamo420</username>
+      		<description>Death Streams, Neptune Rising, Placenta, Aragon Live, Wraith, Chappa'ai</description>
+	</repository>
+	
+	<repository>
+      		<name>Iceballs</name>
+      		<username>Iceballs</username>
+      		<description>IceFilms, 1Channel</description>
+	</repository>
+	
+	<repository>
+      		<name>DxCx</name>
+      		<username>dxcx</username>
+      		<description>9Anime</description>
+	</repository>
+	
+	<repository>
+      		<name>elgatito</name>
+      		<username>elgatito</username>
+      		<description>Elementum</description>
 	</repository>
 
+	<repository>
+      		<name>iwannabelikemike</name>
+      		<username>iwannabelikemike</username>
+      		<description>Sparkle</description>
+	</repository>
+	
+	<repository>
+      		<name>Mr Entertainment</name>
+      		<username>MrEntertainment</username>
+      		<description>Release HUB</description>
+	</repository>
+
+	<repository>
+      		<name>Incursion</name>
+      		<username>nixgates</username>
+      		<description>Incursion, Watch Nixtoons</description>
+	</repository>
+   
+	<repository>
+      		<name>Tgxcorporation</name>
+      		<username>Tgxcorporation</username>
+      		<description>Skins: nebula, andromeda</description>
+	</repository>
+
+	<repository>
+		<name>FrenchDJ</name>
+		<username>frenchdj</username>
+      		<description>Documented.HD, Alive.HD</description>
+	</repository>
+
+	<repository>
+	      	<name>Ryan Rector</name>
+      		<username>rmrector</username>
+      		<description>Artwork Beef</description>
+	</repository>
+
+	<repository>
+	      	<name>Stream Army</name>
+      		<username>nemesis668</username>
+      		<description>Nemesis, Entertainment Time</description>
+	</repository>
+
+	<repository>
+	      	<name>Rockcrusher</name>
+      		<username>rockcrusher01</username>
+      		<description>Vortex, Caught on Cam, Grit, Brain Drain, FightTube</description>
+	</repository>
+
+	<repository>
+	      	<name>Maverick</name>
+      		<username>Maverick53</username>
+      		<description>Copy and Paste, At the Flix, Skynet, Maverick TV</description>
+	</repository>
+	
+	<repository>
+	      	<name>Pure</name>
+      		<username>PureRepo1</username>
+      		<description>SportsMatrix, Kids Planet, Shows Motion</description>
+	</repository>
+
+	<repository>
+	      	<name>Goliath</name>
+      		<username>Goliath-Evolve</username>
+      		<description>Picasso, Cartoons8</description>
+	</repository>
+
+	<repository>
+	      	<name>Master Skinbase</name>
+      		<username>kaffepausse71</username>
+      		<description>The Biggest Skinbase</description>
+	</repository>
+	
+	<repository>
+	      	<name>Sualfred</name>
+      		<username>sualfred</username>
+      		<description>Skins, Repos</description>
+	</repository>
+	
+	<repository>
+	      	<name>icemokalot</name>
+      		<username>icemokalot</username>
+      		<description>Several kodi Repository .zip files</description>
+	</repository>
+	
+	<repository>
+	      	<name>marcelveldt</name>
+      		<username>marcelveldt</username>
+      		<description>Kodi repository for beta versions of marcelveldt's addons</description>
+	</repository>
+	
+	<repository>
+	      	<name>Scott976</name>
+      		<username>scott976</username>
+      		<description>Kodi Aeon MQ5 Skin for Kodi 18 (Leia)</description>
+	</repository>
+	
+	<repository>
+	      	<name>Mad Max</name>
+      		<username>mad-max</username>
+      		<description>Confluence-MOD for KODI V18 Leia</description>
+	</repository>
+
+	<repository>
+	      	<name>Uncoded Life 2</name>
+      		<username>uncoded-life2</username>
+      		<description>skins for KODI 18</description>
+	</repository>
+	
+	<repository>
+	      	<name>Angelinas 1</name>
+      		<username>Angelinas1</username>
+      		<description>AeonMQ6 mod for KODI 18</description>
+	</repository>
+	
+	<repository>
+	      	<name>Non Jon</name>
+      		<username>nonJon</username>
+      		<description>Quartz 5 CE skin for KODI 18 (Leia)</description>
+	</repository>
+	
+	<repository>
+	      	<name>Eng 2 Heb</name>
+      		<username>Eng2Heb</username>
+      		<description>Fusex Skin for Kodi Leia based on jurialmunkey work</description>
+	</repository>
+	
 </repositories>
